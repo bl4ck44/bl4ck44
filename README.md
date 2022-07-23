@@ -21,10 +21,3 @@ class About extends Me
 
 }
 ```
-
-```javascript
-const thai = {
-  pronouns: "he",
-  code: [Javascript, HTML5, CSS, Python,PHP,Mysql],
-}
-```
