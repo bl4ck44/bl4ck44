@@ -8,7 +8,7 @@
 
 ## Tools
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=Kali%20Linux&logoColor=white&style=for-the-badge)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=Kali%20Linux&logoColor=white&style=for-the-badge)](https://kali.org)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
 ![Gitub](https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
@@ -17,7 +17,7 @@
 
 ![WINDOWS](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-%23e9c245?logo=Linux&logoColor=white&style=for-the-badge)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge)
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/download/server)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
