@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=152FF7&width=435&lines=+Nada+es+seguro+y+todo+es+posible." alt="Typing SVG" /></a>
 </p>
 
-### Tools
+## Tools
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=Kali%20Linux&logoColor=white&style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
