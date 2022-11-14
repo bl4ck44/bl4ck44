@@ -1,12 +1,19 @@
+<h1 align="center">
+  <img src="https://r70.cooltext.com/rendered/cooltext423383022258645.png">
+</h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=152FF7&width=435&lines=404+Not+Found" alt="Typing SVG" /></a>
+</p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl4ck44&theme=chartreuse-dark&show_icons=true)
+
 ```php
 <?php
 namespace AshBaker;
 class About extends Me
 {
-    public function getCurrentWorkplace(): array
-    {
-
-    }
     public function getDailyKnowledge(): array
     {
         return [
@@ -18,6 +25,5 @@ class About extends Me
             Python::class,
         ];
     }
-
 }
 ```
