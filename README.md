@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://r70.cooltext.com/rendered/cooltext423383022258645.png">
+  <img src="logo.png">
 </h1>
 
 <p align="center">
