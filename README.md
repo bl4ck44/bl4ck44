@@ -15,10 +15,11 @@
 
 ## System OS
 
-[![WINDOWS](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-%23e9c245?logo=Linux&logoColor=white&style=for-the-badge)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## Programming language
