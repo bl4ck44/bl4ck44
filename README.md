@@ -31,6 +31,11 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/Csharp-239120?logo=CSharp&logoColor=white&style=flat-square)
 
+## Contactame
+
+[![Discord](https://img.shields.io/badge/Discord-Bl4ck44%235066-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl4ck44&theme=chartreuse-dark&show_icons=true)
+
 
 
