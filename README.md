@@ -14,15 +14,6 @@
 ![Gitub](https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
 
-## System OS
-
-![WINDOWS](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-%23e9c245?logo=Linux&logoColor=white&style=for-the-badge)
-[![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/download/server)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
 ## Programming language
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-php-%230075a8?logo=php&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
