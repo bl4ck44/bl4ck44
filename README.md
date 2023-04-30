@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">
-  <img src="logo.png" width="450px">
-</h1>
+
+<img src="logo.png" width="450px">
+
 
 ## Programming language
 
