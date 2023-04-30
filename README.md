@@ -7,13 +7,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=152FF7&width=435&lines=+Nada+es+seguro+y+todo+es+posible." alt="Typing SVG" /></a>
 </p>
 
-## Tools
-
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=Kali%20Linux&logoColor=white&style=for-the-badge)](https://kali.org)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
-![Gitub](https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
-
 ## Programming language
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-php-%230075a8?logo=php&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
