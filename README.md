@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="450px">
+<img src="logo.png" width="400px">
 
 
 ## Programming language
