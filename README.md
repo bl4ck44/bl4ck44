@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="400px">
 
-## Contactame
+### Contactame
 
 [![Discord](https://img.shields.io/badge/Discord-Bl4ck44%235066-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-bl4ck44-5865f2?style=for-the-badge&logo=Twitter&logoColor=white)]() 
