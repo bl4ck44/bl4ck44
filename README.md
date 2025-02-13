@@ -4,7 +4,7 @@
 
 ### Contactame
 
-[![Discord](https://img.shields.io/badge/Discord-devsebastian31-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-devsebastian44-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 
 <h3 align="left">Languages and Tools:</h3>
