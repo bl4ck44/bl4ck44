@@ -13,14 +13,6 @@
 <a href="https://x.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Devsebastian44/count.svg?"  />
-</div>
-
-###
-
 # Sobre mi
 
 Soy un **Desarrollador Full-Stack** con experiencia en **programación**, **ciberseguridad** y **diseño gráfico**. Me apasiona crear aplicaciones web, desarrollar soluciones escalables y optimizar la experiencia del usuario.
