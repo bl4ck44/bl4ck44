@@ -17,13 +17,12 @@
 
 # Sobre mi
 
-Soy un **Desarrollador de software** con experiencia en **programación**, **ciberseguridad**. Me apasiona crear aplicaciones web, desarrollar soluciones escalables y optimizar la experiencia del usuario.
+Soy un entusiasta de la Ciberseguridad y el Hacking Ético, con experiencia en programación, análisis de vulnerabilidades y desarrollo de herramientas de seguridad.
+Me apasiona explorar sistemas, fortalecer infraestructuras y compartir conocimientos sobre seguridad ofensiva y defensiva.
 
-🚀 Enfoque actual
+🔹 Intereses principales: Pentesting, Análisis de malware, Seguridad en aplicaciones web
 
-    💼 Estudiando en Oracle Next Education
-    🌱 Aprendiendo Ciencia de Datos
-    🔭 Explorando los fundamentos de la IA y las redes neuronales
+🔹 Objetivo: contribuir a proyectos que impulsen un internet más seguro
 
 <div align="center">
   
